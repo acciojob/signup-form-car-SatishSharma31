@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+form {  font-family: "Poppins", sans-serif;
+  font-weight: 400;}
+input { width:200px; padding: 5px; border:1px solid #000;}
+label { width:200px; }
+button { padding: 5px; border:1px solid #000;}
+checkbox { width:200px; padding: 5px; border:1px solid #000;}
+select  { width:200px; padding: 5px; border:1px solid #000;}
